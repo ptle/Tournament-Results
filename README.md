@@ -14,11 +14,11 @@ The following **required** functionality is complete:
 * [x] Report result of matches
 * [x] Create match pairings using Swiss pairing style
 
-## Pictures of Application
+## Picture of Application
 
 <img src='http://i.imgur.com/kbQcvOI.png' title='Logout' width='' alt='Logout' />
 
-## How to run (On Local):
+## How to run:
 1. Make sure Python is downloaded. If not downloaded, go to https://www.python.org/downloads/ to download
 2. Install Vagrant (http://vagrantup.com/) and VirtualBox ()
 3. Download tournament repository to computer 
